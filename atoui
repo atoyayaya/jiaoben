@@ -31,7 +31,7 @@ local RBS_UI = {
 		Sound = "rbxassetid://7743877250",
 		Key = "rbxassetid://7733965118",
 		Home = "rbxassetid://7733960981",
-                Ninja = "rbxassetid://18762207459"
+                Ninja = "rbxassetid://18762602718"
 	},
 	ToggleKey = Enum.KeyCode.RightControl,
 	CanMove = true,
